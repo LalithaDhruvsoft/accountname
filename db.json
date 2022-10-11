@@ -1,5 +1,2 @@
-{"Animals":[
-  {"Name":"John", "AccountNumber":"123456"},
-  {"Name":"Anna", "AccountNumber":"123457"},
-  {"Name":"Peter", "AccountNumber":"123458"}
-]}
+{"animals":[{"Name" : "majestic badger","AccountNumber":"123456"},
+            {"Name" : "badger","AccountNumber":"123457"}]}
